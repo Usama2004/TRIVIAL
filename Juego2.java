@@ -1,6 +1,8 @@
 
 package juego2;
 
+// CREADO PPOR OUSSAMA Y MANUEL
+
 import java.util.*;
 
 public class Juego2 {
